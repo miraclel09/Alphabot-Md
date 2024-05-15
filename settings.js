@@ -30,7 +30,7 @@ global.antidelete = false // anti delete
 global.antiviewonce = false // anti view once
 global.autobio = true //auto ganti bio
 global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
-global.userRegister = false
+global.userRegister = true
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 global.autolevelup = true
 global.auto_antilink = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
@@ -43,7 +43,7 @@ global.autowelcome = true //auto welcome msg all group
 global.autodetectpromote = true //auto detect admin all group
 global.autodetectdemote = true //auto detect un admin all group
 global.autogoodbye = true //auto goodbye msg all group
-global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
+global.groupOnly = true //bot hanya bisa di gunakan dalam grup jika true
 
 //language
 //Available in indonesia , english & spanyol 
