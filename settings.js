@@ -43,7 +43,7 @@ global.autowelcome = true //auto welcome msg all group
 global.autodetectpromote = true //auto detect admin all group
 global.autodetectdemote = true //auto detect un admin all group
 global.autogoodbye = true //auto goodbye msg all group
-global.groupOnly = true //bot hanya bisa di gunakan dalam grup jika true
+global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
 
 //language
 //Available in indonesia , english & spanyol 
